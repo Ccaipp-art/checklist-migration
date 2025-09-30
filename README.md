@@ -1,6 +1,3 @@
-# checklist-migration
-Le but est d'avoir une checklist pour une version dual windows10/kali-linux
-
 # 🖥️ Migration Windows 10 → Kali Linux (Dual Boot)
 
 Ce projet documente ma tentative de migration **Windows 10 → Kali Linux** en **dual boot**, dans un objectif d’apprentissage en administration systèmes & cybersécurité.  
