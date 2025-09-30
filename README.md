@@ -87,5 +87,4 @@ Il me permet de documenter mes apprentissages et de partager une méthode reprod
 
 👤 Auteur : [Théo FRANCOIS](https://www.linkedin.com/in/tfs-ccaipp)
 
-```
 
