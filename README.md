@@ -83,6 +83,12 @@ Il me permet de documenter mes apprentissages et de partager une méthode reprod
 * [Créer une clé bootable avec Rufus](https://rufus.ie/)
 * [Guide dual boot Windows/Linux (Debian)](https://wiki.debian.org/fr/DualBoot)
 
+## 📥 Ressource téléchargeable
+
+➡️ Retrouvez la checklist complète ici :  
+[Checklist Migration Windows 10 → Kali Linux](docs/Checklist_Migration_Windows10_KaliLinux.md)
+
+
 ---
 
 👤 Auteur : [Théo FRANCOIS](https://www.linkedin.com/in/tfs-ccaipp)
