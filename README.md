@@ -86,7 +86,7 @@ Il me permet de documenter mes apprentissages et de partager une méthode reprod
 ## 📥 Ressource téléchargeable
 
 ➡️ Retrouvez la checklist complète ici :  
-[Checklist Migration Windows 10 → Kali Linux](docs/Checklist_Migration_Windows10_KaliLinux.md)
+[Checklist Migration Windows 10 → Kali Linux](docs/Checklist_Migration_Windows10_KaliLinux_interactive.pdf)
 
 
 ---
