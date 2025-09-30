@@ -48,7 +48,7 @@ L’idée est de partager un **guide pratique** que d’autres peuvent suivre ou
 - [ ] Mettre à jour Kali :
   ```bash
   sudo apt update && sudo apt full-upgrade -y
-````
+  ```
 
 * [ ] Installer et activer le firewall UFW :
 
